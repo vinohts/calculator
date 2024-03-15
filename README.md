@@ -1,2 +1,2 @@
-# Project CALC
+# Project Calculator
 HTML,CSS,JSCRIPT
