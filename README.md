@@ -1,3 +1,3 @@
 # Project Calculator 2024
 HTML,CSS,JSCRIPT
-It a practice 
+git check 23/03/2024
